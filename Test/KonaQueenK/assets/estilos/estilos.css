@@ -1,0 +1,32 @@
+html,body{
+	background-color: #DAF7A6;
+	height:100%;
+}
+.container{
+	-webkit-box-shadow: 1px 1px 12px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 12px 1px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 12px 1px rgba(0,0,0,0.75);
+	background-color: white;
+	padding: 0 30px 30px 30px;
+}
+.errorMessage{
+	color: red;
+	    padding: 10px;
+    text-align: center;
+}
+.nav-tabs {
+    margin-left: -30px;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.tab-content{
+	padding:30px;
+}
+img{
+	height: 100px;
+	margin-bottom:20px;
+}
+
